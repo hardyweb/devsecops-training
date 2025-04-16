@@ -17,4 +17,11 @@ Modul latihan asas DevSecOps berfokus kepada:
 - `tools/` - Rujukan tools sekuriti
 - `docs/` - Nota atau rujukan tambahan
 
+## Fokus Latihan
+
+- Menulis skrip Bash yang boleh digunakan semula
+- Menyediakan playbook Ansible untuk provisioning
+- Memahami asas CI/CD pipeline dengan GitHub Actions
+- Menggunakan tools keselamatan untuk imbasan dan audit
+
 > Sesuai untuk sysadmin, dev junior, dan individu yang nak mula explore DevSecOps secara hands-on.
