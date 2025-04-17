@@ -1,4 +1,5 @@
 📦 Apa Itu Ansible?
+
 Ansible ialah alat automasi sumber terbuka yang digunakan untuk:
 
 Provisioning (sediakan server)
@@ -34,7 +35,7 @@ ansible-project/
 📄 Contoh Fail inventory
 Senarai host yang kita nak kawal:
 
-```ini
+```
 [web]
 192.168.100.10
 
